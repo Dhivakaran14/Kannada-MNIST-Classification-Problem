@@ -16,3 +16,5 @@
    * Precision, Recall, F1 - Score
    * Confusion Matrix
    * RoC - AUC curve
+
+5.Try to repeat the same experiment for different component size : 15,20,25,30
