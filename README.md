@@ -2,7 +2,7 @@
 
 # Procedure:
 
-1.Extract the dataset from the npz file from the downloaded dataset with 60000 images for training and 10000 images for test, each image is of the size 28X28.
+ 1.Extract the dataset from the npz file from the downloaded dataset with 60000 images for training and 10000 images for test, each image is of the size 28X28.
 
 2. Perform PCA to 10 components. So now we have train and test images in 10 dimension instead of 28X28 dimension.
 
